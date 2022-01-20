@@ -1,4 +1,4 @@
-i<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:ncts="http://ns.electronichealth.net.au/ncts/syndication/asf/extensions/1.0.0" xmlns:onto="http://ontoserver.csiro.au/syndication/">
     <title type="text">Pye Finch Codes</title>
     <link rel="self" href="http://localhost:8080/synd/syndication.xml" />
