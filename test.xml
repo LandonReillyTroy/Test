@@ -17,7 +17,7 @@
       <ncts:contentItemVersion>1.0.0</ncts:contentItemVersion>
     </entry>
     
-    <entry>
+<!--     <entry>
         <title>SNOMED CT</title>
         <id>urn:uuid:9f0e4007-16ff-4639-b4d9-cc6e9c7938f5</id>
         <author>
@@ -30,5 +30,5 @@
         <published>2019-03-20T12:00:00+10:00</published>
         <category term="SCT_RF2_SNAPSHOT" label="SNOMED CT RF2 SNAPSHOT" scheme="http://ns.electronichealth.net.au/ncts/syndication/asf/scheme/1.0.0" />
         <link rel="alternate" type="application/zip" href="file:///var/synd/SnomedCT_RF2.zip" ncts:sha256Hash="SHA"/>
-    </entry>
+    </entry> -->
 </feed>
