@@ -9,7 +9,7 @@
     <ncts:atomSyndicationFormatProfile>http://ns.electronichealth.net.au/ncts/syndication/asf/profile/1.0.0</ncts:atomSyndicationFormatProfile>
     <entry>
       <title>My PyeFinch</title>
-      <category term="Bundle" label="FHIR Value Set" scheme="http://hl7.org/fhir/resource-types" />
+      <category term="CodeSystem" label="FHIR Value Set" scheme="http://hl7.org/fhir/resource-types" />
       <link rel="alternate" href="https://raw.githubusercontent.com/LandonReillyTroy/Test/main/myCodeSystem.json" type="application/fhir+json" />
       <id>7f6af166-cf09-4741-83d3-ac2be4880e04</id>
       <updated>2022-01-19T22:45:27Z</updated>
