@@ -10,6 +10,7 @@ i<?xml version="1.0" encoding="UTF-8"?>
     <entry>
       <title>My PyeFinch</title>
       <category term="FHIR_ValueSet" label="FHIR Value Set" scheme="http://ns.electronichealth.net.au/ncts/syndication/asf/scheme/1.0.0" />
+      <link rel="alternate" href="https://raw.githubusercontent.com/LandonReillyTroy/Test/main/myCodeSystem.json" type="application/fhir+json" />
       <id>7f6af166-cf09-4741-83d3-ac2be4880e04</id>
       <updated>2022-01-19T22:45:27Z</updated>
       <ncts:contentItemIdentifier>http://example.com/CodeSystem/1</ncts:contentItemIdentifier>
