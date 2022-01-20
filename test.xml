@@ -12,19 +12,8 @@
       <id>7f6af166-cf09-4741-83d3-ac2be4880e00</id>
       <published>2019-06-30</published>
       <summary type="text">This is my CodeSystem</summary>
-      <link rel="alternate" href="file:///data/myCodeSystem.json" type="application/fhir+json" />
+      <link rel="alternate" href="https://raw.githubusercontent.com/LandonReillyTroy/Test/main/myCodeSystem.json" type="application/fhir+json" />
       <ncts:contentItemIdentifier>http://example.com/CodeSystem/1</ncts:contentItemIdentifier>
-      <ncts:contentItemVersion>1.0.0</ncts:contentItemVersion>
-  </entry>
-
-  <entry>
-      <title>My ValueSet</title>
-      <category term="FHIR_ValueSet" label="FHIR Value Set" scheme="http://ns.electronichealth.net.au/ncts/syndication/asf/scheme/1.0.0" />
-      <id>539a689f-cd46-4756-94be-29aed8544cb2</id>
-      <published>2019-06-30</published>
-      <summary type="text">This is my ValueSet</summary>
-      <link rel="alternate" href="file:///data/myValueSet.json" type="application/fhir+json" />
-      <ncts:contentItemIdentifier>http://example.com/ValueSet/1</ncts:contentItemIdentifier>
       <ncts:contentItemVersion>1.0.0</ncts:contentItemVersion>
   </entry>
 </feed>
