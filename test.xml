@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:ncts="http://ns.electronichealth.net.au/ncts/syndication/asf/extensions/0.1.0">
     <title type="text">Pye Finch Codes</title>
-\    <updated>2019-06-30</updated>
+    <updated>2019-06-30</updated>
     <id>urn:uuid:b617906a-e0f8-45f7-a0f3-0742a2bb3135</id>
     <ncts:atomSyndicationFormatProfile version="http://ns.electronichealth.net.au/ncts/syndication/asf/profile/0.1.0"/>
 
