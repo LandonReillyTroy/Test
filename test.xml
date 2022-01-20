@@ -16,4 +16,19 @@
       <ncts:contentItemIdentifier>http://example.com/CodeSystem/1</ncts:contentItemIdentifier>
       <ncts:contentItemVersion>1.0.0</ncts:contentItemVersion>
     </entry>
+    
+    <entry>
+        <title>SNOMED CT</title>
+        <id>urn:uuid:9f0e4007-16ff-4639-b4d9-cc6e9c7938f5</id>
+        <author>
+            <name>Leprechauns</name>
+        </author>
+        <rights>Copyright by Leprechauns</rights>
+        <ncts:contentItemIdentifier>http://snomed.info/sct/32506021000036107/version/20211231</ncts:contentItemIdentifier>
+        <ncts:contentItemVersion>http://snomed.info/sct/32506021000036107/version/20211231</ncts:contentItemVersion>
+        <updated>2019-03-20T12:00:00+10:00</updated>
+        <published>2019-03-20T12:00:00+10:00</published>
+        <category term="SCT_RF2_SNAPSHOT" label="SNOMED CT RF2 SNAPSHOT" scheme="http://ns.electronichealth.net.au/ncts/syndication/asf/scheme/1.0.0" />
+        <link rel="alternate" type="application/zip" href="file:///var/synd/SnomedCT_RF2.zip" ncts:sha256Hash="SHA"/>
+    </entry>
 </feed>
