@@ -10,13 +10,10 @@
     <entry>
        <title>My CodeSystem</title>
        <link rel="alternate" href="https://raw.githubusercontent.com/LandonReillyTroy/Test/main/myCodeSystem.json" type="application/fhir+json" />
-        <category term="BINARY" label="Binary Index" scheme="http://ontoserver.csiro.au/syndication/rf2/2.0.5" />
-        <author>
-            <name>Ontoserver</name>
-        </author>
-        <id>urn:uuid:800409dd-b147-394d-bdf9-503c7db66067</id>
-        <updated>2022-01-19T22:45:27Z</updated>
-        <ncts:contentItemIdentifier>http://example.com/CodeSystem/1</ncts:contentItemIdentifier>
-        <ncts:contentItemVersion>1.0.0</ncts:contentItemVersion>
+      <category term="FHIR_ValueSet" label="FHIR Value Set" scheme="http://ns.electronichealth.net.au/ncts/syndication/asf/scheme/1.0.0" />
+      <id>urn:uuid:800409dd-b147-394d-bdf9-503c7db66067</id>
+      <updated>2022-01-19T22:45:27Z</updated>
+      <ncts:contentItemIdentifier>http://example.com/CodeSystem/1</ncts:contentItemIdentifier>
+      <ncts:contentItemVersion>1.0.0</ncts:contentItemVersion>
     </entry>
 </feed>
