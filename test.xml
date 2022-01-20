@@ -16,7 +16,7 @@
         </author>
         <id>urn:uuid:800409dd-b147-394d-bdf9-503c7db66067</id>
         <updated>2022-01-19T22:45:27Z</updated>
-        <ncts:contentItemIdentifier>http://snomed.info/sct</ncts:contentItemIdentifier>
-        <ncts:contentItemVersion>http://snomed.info/sct/32506021000036107/version/20211231</ncts:contentItemVersion>
+        <ncts:contentItemIdentifier>http://example.com/CodeSystem/1</ncts:contentItemIdentifier>
+        <ncts:contentItemVersion>1.0.0</ncts:contentItemVersion>
     </entry>
 </feed>
