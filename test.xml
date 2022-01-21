@@ -23,7 +23,7 @@
       <id>539a689f-cd46-4756-94be-29aed8544cb2</id>
       <published>2019-06-30</published>
       <summary type="text">This is my ValueSet</summary>
-      <link rel="alternate" href="https://raw.githubusercontent.com/LandonReillyTroy/Test/main/myCodeSystem.json" type="application/fhir+json" />
+      <link rel="alternate" href="https://raw.githubusercontent.com/LandonReillyTroy/Test/main/myValueSet.json" type="application/fhir+json" />
       <ncts:contentItemIdentifier>http://example.com/ValueSet/1</ncts:contentItemIdentifier>
       <ncts:contentItemVersion>1.0.0</ncts:contentItemVersion>
   </entry>
