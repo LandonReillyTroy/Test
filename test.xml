@@ -7,7 +7,7 @@
 
   <entry>
       <title>My CodeSystem</title>
-      <category term="FHIR_Bundle" label="FHIR Code System" scheme="http://ns.electronichealth.net.au/ncts/syndication/asf/scheme/1.0.0" />
+      <category term="FHIR_CodeSystem" label="FHIR Code System" scheme="http://ns.electronichealth.net.au/ncts/syndication/asf/scheme/1.0.0" />
       <id>7f6af166-cf09-4741-83d3-ac2be4880e00</id>
       <published>2019-06-30</published>
       <summary type="text">This is my CodeSystem</summary>
@@ -18,7 +18,7 @@
 
   <entry>
       <title>My ValueSet</title>
-      <category term="FHIR_Bundle" label="FHIR Value Set" scheme="http://ns.electronichealth.net.au/ncts/syndication/asf/scheme/1.0.0" />
+      <category term="FHIR_ValueSet" label="FHIR Value Set" scheme="http://ns.electronichealth.net.au/ncts/syndication/asf/scheme/1.0.0" />
       <id>539a689f-cd46-4756-94be-29aed8544cb2</id>
       <published>2019-06-30</published>
       <summary type="text">This is my ValueSet</summary>
