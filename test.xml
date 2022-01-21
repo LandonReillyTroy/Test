@@ -7,7 +7,7 @@
 
   <entry>
       <title>My CodeSystem</title>
-      <category term="FHIR_CodeSystem" label="FHIR Code System" scheme="http://aehrc.com/fhir/CodeSystem/au-cities" />
+      <category term="FHIR_CodeSystem" label="FHIR Code System" scheme="http://ns.electronichealth.net.au/fhir/StructureDefinition/ncts/profile/CodeSystem/complete-code-system/2.1.0" />
       <id>4a17493f-b1fb-4483-9e88-fd4147ba71f7</id>
       <published>2020-12-21T00:00:00+10:00</published>
       <summary type="text">This is my CodeSystem</summary>
