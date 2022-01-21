@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:ncts="http://ns.electronichealth.net.au/ncts/syndication/asf/extensions/0.1.0">
-    <title type="text">LANDON</title>
+    <title type="text">LANDON TEST</title>
     <updated>2019-06-30</updated>
     <id>urn:uuid:b617906a-e0f8-45f7-a0f3-0742a2bb3135</id>
     <ncts:atomSyndicationFormatProfile version="http://ns.electronichealth.net.au/ncts/syndication/asf/profile/0.1.0"/>
@@ -12,7 +12,7 @@
       <published>2021-06-30</published>
       <summary type="text">This is my CodeSystem</summary>
       <link rel="alternate" href="https://raw.githubusercontent.com/LandonReillyTroy/Test/main/myCodeSystem.json" type="application/fhir+json" />
-      <ncts:contentItemIdentifier>http://example.com/CodeSystem/1</ncts:contentItemIdentifier>
+      <ncts:contentItemIdentifier>http://aehrc.com/fhir/CodeSystem/au-cities</ncts:contentItemIdentifier>
       <ncts:contentItemVersion>20201221</ncts:contentItemVersion>
   </entry>
 
