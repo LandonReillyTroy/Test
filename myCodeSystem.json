@@ -1,24 +1,90 @@
-  {
-    "resourceType": "Bundle",
-    "type": "batch",
-    "entry": [
-      {
-        "resource": {
-          "resourceType": "CodeSystem",
-          "url": "http://sample.com/CodeSystem/1",
-          "status": "draft",
-          "content": "complete",
-          "concept": [
-            {
-              "code": "A",
-              "display": "First concept"
-            },
-            {
-              "code": "B",
-              "display": "Second concept"
-            }
-          ]
+{
+    "resourceType": "CodeSystem",
+    "url": "http://csiro.au/fhir/au-states-territories",
+    "version": "2020-12-21",
+    "name": "States and Territories of Australia",
+    "status": "draft",
+    "experimental": true,
+    "publisher": "Australian e-Health Research Centre, CSIRO",
+    "contact": [
+        {
+            "telecom": [
+                {
+                    "system": "email",
+                    "value": "ontoserver-support@csiro.au"
+                }
+            ]
         }
-      }
+    ],
+    "date": "2020-12-21T00:00:00+10:00",
+    "description": "A list of states and territories within the Commonwealth of Australia.",
+    "caseSensitive": true,
+    "valueSet": "http://hl7.org/fhir/ValueSet/au-states-territories",
+    "content": "complete",
+    "concept": [
+        {
+            "code": "NSW",
+            "display": "New South Wales"
+        },
+        {
+            "code": "QLD",
+            "display": "Queensland"
+        },
+        {
+            "code": "SA",
+            "display": "South Australia"
+        },
+        {
+            "code": "TAS",
+            "display": "Tasmania"
+        },
+        {
+            "code": "VIC",
+            "display": "Victoria"
+        },
+        {
+            "code": "WA",
+            "display": "Western Australia"
+        },
+        {
+            "code": "ACT",
+            "display": "Australian Capital Territory"
+        },
+        {
+            "code": "Jervis Bay Territory",
+            "display": "Jervis Bay Territory"
+        },
+        {
+            "code": "NT",
+            "display": "Northern Territory"
+        },
+        {
+            "code": "Ashmore and Cartier Islands",
+            "display": "Ashmore and Cartier Islands"
+        },
+        {
+            "code": "AQ",
+            "display": "Australian Antarctic Territory"
+        },
+        {
+            "code": "CX",
+            "display": "Christmas Island"
+        },
+        {
+            "code": "CC",
+            "display": "Cocos (Keeling) Islands"
+        },
+        {
+            "code": "Coral Sea Islands",
+            "display": "Coral Sea Islands"
+        },
+        {
+            "code": "HM",
+            "display": "Heard Island and McDonald Islands"
+        },
+        {
+            "code": "NF",
+            "display": "Norfolk Island"
+        }
     ]
-  }
+}
