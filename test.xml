@@ -11,6 +11,7 @@
       <id>7f6af166-cf09-4741-83d3-ac2be4880e00</id>
       <published>2019-06-30</published>
       <summary type="text">This is my CodeSystem</summary>
+      <link rel="alternate" href="https://raw.githubusercontent.com/LandonReillyTroy/Test/main/myCodeSystem.json" type="application/fhir+json" />
       <ncts:contentItemIdentifier>http://example.com/CodeSystem/1</ncts:contentItemIdentifier>
       <ncts:contentItemVersion>1.0.0</ncts:contentItemVersion>
   </entry>
