@@ -12,7 +12,7 @@
       <category term="FHIR_CodeSystem" label="FHIR Code System" scheme="http://ns.electronichealth.net.au/ncts/syndication/asf/scheme/1.0.0" />
       <id>7f6af166-cf09-4741-83d3-ac2be4880e00</id>
       <published>2019-06-30</published>
-      <summary type="text">This is my CodeSystem</summary   
+      <summary type="text">This is my CodeSystem</summary>
       <link rel="alternate" href="https://raw.githubusercontent.com/LandonReillyTroy/Test/main/myCodeSystem.json" type="application/fhir+json" />
       <updated>2022-01-19T22:45:27Z</updated>
       <ncts:contentItemIdentifier>http://example.com/CodeSystem/1</ncts:contentItemIdentifier>
