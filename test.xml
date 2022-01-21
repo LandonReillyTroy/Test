@@ -10,8 +10,9 @@
     <entry>
       <title>TESTing CodeSystem</title>
       <category term="FHIR_CodeSystem" label="FHIR Code System" scheme="http://ns.electronichealth.net.au/ncts/syndication/asf/scheme/1.0.0" />
-      <id>7f6af166-cf09-4741-83d3-ac2be4880e00</id>
-      <published>2019-06-30</published>
+        <id>urn:uuid:9f0e4007-16ff-4639-b4d9-cc6e9c7938f7</id>
+      <updated>2019-03-20T12:00:00+10:00</updated>
+      <published>2019-03-20T12:00:00+10:00</published>
       <summary type="text">This is my CodeSystem</summary>
       <link rel="alternate" href="https://raw.githubusercontent.com/LandonReillyTroy/Test/main/myCodeSystem.json" type="application/fhir+json" />
       <updated>2022-01-19T22:45:27Z</updated>
