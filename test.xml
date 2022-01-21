@@ -16,7 +16,7 @@
       <link rel="alternate" href="https://raw.githubusercontent.com/LandonReillyTroy/Test/main/myCodeSystem.json" type="application/fhir+json" />
       <updated>2022-01-19T22:45:27Z</updated>
       <ncts:contentItemIdentifier>http://example.com/CodeSystem/1</ncts:contentItemIdentifier>
-      <ncts:contentItemVersion>1.0.0</ncts:contentItemVersion>
+      <ncts:contentItemVersion>1</ncts:contentItemVersion>
     </entry>
     
 <!--     <entry>
