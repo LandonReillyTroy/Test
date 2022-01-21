@@ -13,7 +13,7 @@
       <summary type="text">This is my CodeSystem</summary>
       <link rel="alternate" href="https://raw.githubusercontent.com/LandonReillyTroy/Test/main/myCodeSystem.json" type="application/fhir+json" />
       <ncts:contentItemIdentifier>http://example.com/CodeSystem/1</ncts:contentItemIdentifier>
-      <ncts:contentItemVersion>1.0.0</ncts:contentItemVersion>
+      <ncts:contentItemVersion>20201221</ncts:contentItemVersion>
   </entry>
 
   <entry>
@@ -24,6 +24,6 @@
       <summary type="text">This is my ValueSet</summary>
       <link rel="alternate" href="https://raw.githubusercontent.com/LandonReillyTroy/Test/main/myValueSet.json" type="application/fhir+json" />
       <ncts:contentItemIdentifier>http://example.com/ValueSet/1</ncts:contentItemIdentifier>
-      <ncts:contentItemVersion>1.0.0</ncts:contentItemVersion>
+      <ncts:contentItemVersion>20201221</ncts:contentItemVersion>
   </entry>
 </feed>
