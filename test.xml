@@ -15,6 +15,7 @@
       <link rel="alternate" href="https://raw.githubusercontent.com/LandonReillyTroy/Test/main/myCodeSystem.json" type="application/fhir+json" />
       <ncts:contentItemIdentifier>http://aehrc.com/fhir/CodeSystem/au-cities</ncts:contentItemIdentifier>
       <ncts:contentItemVersion>20201221</ncts:contentItemVersion>
+      <ncts:fhirVersion>4.0</ncts:fhirVersion>
   </entry>
 
   <entry>
@@ -26,5 +27,6 @@
       <link rel="alternate" href="https://raw.githubusercontent.com/LandonReillyTroy/Test/main/myValueSet.json" type="application/fhir+json" />
       <ncts:contentItemIdentifier>http://example.com/ValueSet/1</ncts:contentItemIdentifier>
       <ncts:contentItemVersion>20201221</ncts:contentItemVersion>
+      <ncts:fhirVersion>4.0</ncts:fhirVersion>
   </entry>
 </feed>
