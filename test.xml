@@ -7,6 +7,19 @@
     <ncts:atomSyndicationFormatProfile version="http://ns.electronichealth.net.au/ncts/syndication/asf/profile/0.1.0"/>
 
   <entry>
+      <title>PyeFinch</title>
+      <category term="FHIR_CodeSystem" label="FHIR Code System" scheme="http://ns.electronichealth.net.au/ncts/syndication/asf/scheme/1.0.0" />
+      <id>4a17493f-b1fb-4483-9e88-fd4147ba71f7</id>
+      <published>2020-12-21T00:00:00+10:00</published>
+      <summary type="text">PyeFinch Codesystem</summary>
+      <link rel="alternate" href="https://raw.githubusercontent.com/LandonReillyTroy/Test/main/Pyefinch.json" type="application/fhir+json" />
+      <ncts:contentItemIdentifier>http://bestpractice/fhir/CodeSystem/Pyefinch</ncts:contentItemIdentifier>
+      <ncts:contentItemVersion>20201221</ncts:contentItemVersion>
+      <ncts:fhirVersion>4.0</ncts:fhirVersion>
+  </entry>
+    
+    
+  <entry>
       <title>My CodeSystem</title>
       <category term="FHIR_CodeSystem" label="FHIR Code System" scheme="http://ns.electronichealth.net.au/ncts/syndication/asf/scheme/1.0.0" />
       <id>4a17493f-b1fb-4483-9e88-fd4147ba71f7</id>
