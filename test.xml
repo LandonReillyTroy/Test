@@ -17,8 +17,7 @@
       <ncts:contentItemVersion>20201221</ncts:contentItemVersion>
       <ncts:fhirVersion>4.0</ncts:fhirVersion>
   </entry>
-    
-    
+
   <entry>
       <title>My CodeSystem</title>
       <category term="FHIR_CodeSystem" label="FHIR Code System" scheme="http://ns.electronichealth.net.au/ncts/syndication/asf/scheme/1.0.0" />
