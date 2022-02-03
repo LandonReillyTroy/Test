@@ -17,39 +17,15 @@
       <ncts:contentItemVersion>20201221</ncts:contentItemVersion>
       <ncts:fhirVersion>4.0</ncts:fhirVersion>
   </entry>
-    
+
   <entry>
-      <title>PyeFinch</title>
-      <category term="FHIR_CodeSystem" label="FHIR Code System" scheme="http://ns.electronichealth.net.au/ncts/syndication/asf/scheme/1.0.0" />
+      <title>REason For Visit</title>
+      <category term="FHIR_ValueSet" label="FHIR Value Set" scheme="http://ns.electronichealth.net.au/ncts/syndication/asf/scheme/1.0.0" />
       <id>4a17493f-b1fb-4483-9e88-fd4147ba71f7</id>
       <published>2020-12-21T00:00:00+10:00</published>
       <summary type="text">Reason For Visit</summary>
       <link rel="alternate" href="https://raw.githubusercontent.com/LandonReillyTroy/Test/main/reasonforvisit.json" type="application/fhir+json" />
       <ncts:contentItemIdentifier>http://bestpractice/fhir/ValueSet/ReasonForVisit</ncts:contentItemIdentifier>
-      <ncts:contentItemVersion>20201221</ncts:contentItemVersion>
-      <ncts:fhirVersion>4.0</ncts:fhirVersion>
-  </entry>
-
-  <entry>
-      <title>My CodeSystem</title>
-      <category term="FHIR_CodeSystem" label="FHIR Code System" scheme="http://ns.electronichealth.net.au/ncts/syndication/asf/scheme/1.0.0" />
-      <id>4a17493f-b1fb-4483-9e88-fd4147ba71f7</id>
-      <published>2020-12-21T00:00:00+10:00</published>
-      <summary type="text">This is my CodeSystem</summary>
-      <link rel="alternate" href="https://raw.githubusercontent.com/LandonReillyTroy/Test/main/myCodeSystem.json" type="application/fhir+json" />
-      <ncts:contentItemIdentifier>http://aehrc.com/fhir/CodeSystem/au-cities</ncts:contentItemIdentifier>
-      <ncts:contentItemVersion>20201221</ncts:contentItemVersion>
-      <ncts:fhirVersion>4.0</ncts:fhirVersion>
-  </entry>
-
-  <entry>
-      <title>My ValueSet</title>
-      <category term="FHIR_ValueSet" label="FHIR Value Set" scheme="http://ns.electronichealth.net.au/ncts/syndication/asf/scheme/1.0.0" />
-      <id>539a689f-cd46-4756-94be-29aed8544cb2</id>
-      <published>2021-06-30</published>
-      <summary type="text">This is my ValueSet</summary>
-      <link rel="alternate" href="https://raw.githubusercontent.com/LandonReillyTroy/Test/main/myValueSet.json" type="application/fhir+json" />
-      <ncts:contentItemIdentifier>http://example.com/ValueSet/1</ncts:contentItemIdentifier>
       <ncts:contentItemVersion>20201221</ncts:contentItemVersion>
       <ncts:fhirVersion>4.0</ncts:fhirVersion>
   </entry>
